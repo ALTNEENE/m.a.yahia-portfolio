@@ -37,7 +37,7 @@ export const profileData: ProfileType = {
     title: "Software Engineer.",
     bio: "Junior Software Engineer with experience in full-stack web development using JavaScript, React.js, Node.js, and MongoDB. Proven success building real-world systems, including an aid distribution platform for Sudanese refugees with the World Food Programme. Founder of an e-commerce platform (Altneene Store) focused on affiliate marketing. Strong foundation in computer science (CS50x, HarvardX), cybersecurity, and data analytics. Passionate about creating impactful software and working on mission-driven projects.",
     profilePicture: "altneene.jpg",
-    resumeUrl: "string",
+    resumeUrl: "M.A.Yahia_CV.pdf",
     contactEmail: "Mo11hmmed88@gmail.com",
     githubUrl: "https://github.com/ALTNEENE",
     linkedinUrl: "string",
